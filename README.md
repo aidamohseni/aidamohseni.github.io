@@ -1,4 +1,3 @@
-<html>
 <body>
     <header>
         <p>Welcome to my GitHub Page</p>
@@ -15,4 +14,3 @@
         <p><a href="https://www.aida.science" target="_blank">Visit my main website</a></p>
     </footer>
 </body>
-</html>
