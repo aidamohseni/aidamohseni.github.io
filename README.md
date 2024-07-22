@@ -1,6 +1,5 @@
 <body>
     <header>
-        <h1>Aida Mohseni</h1>
         <p>Welcome to my GitHub Page</p>
     </header>
     <main>
